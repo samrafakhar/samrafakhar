@@ -3,7 +3,6 @@
 - 🏫 I’m currently a final year CS student at FAST-NU, Lahore.
 - 📫 You can reach me via my fakharsamra20@gmail.com and [LinkedIn](https://www.linkedin.com/in/samra-fakhar/)
 
-# Github Stats
 ![](https://github.com/samrafakhar/github-stats/blob/master/generated/languages.svg)
 ![](https://github.com/samrafakhar/github-stats/blob/master/generated/overview.svg)
 
