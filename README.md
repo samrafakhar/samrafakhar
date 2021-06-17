@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samrafakhar; a final year CS student at FAST-NU, Lahor
+- 👋 Hi, I’m @samrafakhar; a final year CS student at FAST-NU, Lahore
 
 
 ![](https://github.com/samrafakhar/github-stats/blob/master/generated/languages.svg)
